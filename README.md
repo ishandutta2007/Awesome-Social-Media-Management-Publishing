@@ -4,10 +4,12 @@
 
 # 🚀 Awesome Social Media Management & Publishing
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C9%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Social-Media-Management-Publishing?style=social)](https://github.com/ishandutta2007/Awesome-Social-Media-Management-Publishing/stargazers)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Social-Media-Management-Publishing/pulls)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated index of top-tier SaaS platforms and self-hosted open-source software for social media scheduling, cross-platform publishing, multi-brand content calendars, and social listening.**
 
@@ -24,6 +26,8 @@
   - [🛠️ Specialized & Emerging Open-Source Tools](#️-specialized--emerging-open-source-tools)
 - [⚖️ SaaS vs. Self-Hosted: Architecture & Caveats](#️-saas-vs-self-hosted-architecture--caveats)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
 - [📄 Disclaimer](#-disclaimer)
 
 ---
@@ -115,6 +119,26 @@ Contributions are welcome! Help expand and maintain this community guide:
 2. 🌿 Create a feature branch: `git checkout -b feature/add-new-tool`.
 3. 📝 Add your tool to the appropriate table or section following the established column structure.
 4. 📬 Submit a Pull Request with a clear description and links.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for exploring this curated repository! Maintaining and continuously updating this ecosystem list takes time and research.
+
+If you found this helpful, please consider:
+- ⭐ **Starring** the repository to help others discover it.
+- 🍴 **Forking** and contributing new tools or corrections.
+- 📢 **Sharing** this guide with colleagues, marketing teams, and fellow developers.
+- ☕ **Buying a coffee / sponsoring** the maintainer on GitHub:  
+  [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=githubsponsors)](https://github.com/sponsors/ishandutta2007)
+
+Your support is deeply appreciated!
+
+---
+
+##  Star History
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Social-Media-Management-Publishing&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Social-Media-Management-Publishing&type=date&legend=top-left)
 
 ---
 
