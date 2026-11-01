@@ -56,6 +56,7 @@ The table below catalogs leading commercial solutions, sorted in descending orde
 | **[Loomly](https://www.loomly.com/)** | ~$40M–$60M Est. Valuation | Brand success platform, post mockups, collaborative editorial approvals, custom workflows | **$32/mo** *(Base plan, 2 users, 10 social accounts, billed annually)* | **15-Day Free Trial** (Full access to all features, no credit card required) |
 | **[SocialPilot](https://www.socialpilot.co/)** | ~$35M–$50M Est. Valuation | Agency multi-client management, bulk scheduling, white-label client dashboards | **$25.50/mo** *(Professional plan, 7 accounts, 1 user, billed annually)* | **14-Day Free Trial** (Full access to selected plan; no permanent free tier) |
 | **[Sendible](https://www.sendible.com/)** | ~$30M–$45M Est. Valuation *(Acquired by Traject)* | Agency-centric social posting, custom client reporting, RSS auto-publishing | **$25/mo** *(Creator plan, 1 user, 6 social profiles, billed annually)* | **14-Day Free Trial** (Includes access to scheduling, reporting, and inbox) |
+| **[OpenSparta](https://opensparta.com/en)** | Valuation not publicly disclosed | Telegram marketing workspace for connected-account and proxy operations, relevant-conversation discovery, campaign workflows, and selected-community buying-request monitoring through Lead Radar. | **$9/mo per module** | **14-day trial** with 500 AI credits and up to 10 active accounts; account and proxy tools remain free for up to 50 accounts after the trial. |
 
 ---
 
